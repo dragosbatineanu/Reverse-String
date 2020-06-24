@@ -6,3 +6,4 @@ A simple website with JavaScript logic behind it. It allows to reverse a string 
 
 Things to add : 
   - Customise the CSS a bit more
+  - Fix the heigh on the Github icon

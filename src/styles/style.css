@@ -1,0 +1,48 @@
+:root {
+    --main-color: #143D59;
+    --secondary-color: #F4B41A;
+}
+
+body {
+    background-color: var(--main-color);
+    color: var(--main-color);
+}
+
+h1 {
+    font-weight: 100;
+}
+
+#string-input {
+    background-color: var(--secondary-color);
+}
+
+.container {
+    background-color: var(--secondary-color);
+    display: flex;
+    justify-content: center;
+}
+
+.container-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#results{
+    justify-content: center;
+    flex-direction: column;
+}
+
+.input-elements {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.button {
+    background-color: var(--secondary-color);
+}
+
+.delete {
+    background-color: red;
+}
